@@ -1,2 +1,2 @@
 # webScraping
-using Beautiful Soap
+using Beautiful Soup
